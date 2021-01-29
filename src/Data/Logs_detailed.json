@@ -1,0 +1,42 @@
+[
+{
+  "Ride_no": "RIDE 1",
+  "Duration": "( 1 Hour 20 Mins )",
+  "Pickup": "11:20 AM",
+  "Dropoff": "12:40 PM",
+  "StartAddress": "Royal Palace Street 506, Albany, New York - USA",
+  "EndAddress": "City Mall Street 281, Albany, New York - USA"
+},
+{
+  "Ride_no": "RIDE 2",
+  "Duration": "( 1 Hour 20 Mins )",
+  "Pickup": "11:20 AM",
+  "Dropoff": "12:40 PM",
+  "StartAddress": "Royal Palace Street 506, Albany, New York - USA",
+  "EndAddress": "City Mall Street 281, Albany, New York - USA"
+} ,
+{
+  "Ride_no": "RIDE 3",
+  "Duration": "( 1 Hour 20 Mins )",
+  "Pickup": "11:20 AM",
+  "Dropoff": "12:40 PM",
+  "StartAddress": "Royal Palace Street 506, Albany, New York - USA",
+  "EndAddress": "City Mall Street 281, Albany, New York - USA"
+} ,
+{
+  "Ride_no": "RIDE 4",
+  "Duration": "( 1 Hour 20 Mins )",
+  "Pickup": "11:20 AM",
+  "Dropoff": "12:40 PM",
+  "StartAddress": "Royal Palace Street 506, Albany, New York - USA",
+  "EndAddress": "City Mall Street 281, Albany, New York - USA"
+},
+{
+  "Ride_no": "RIDE 5",
+  "Duration": "( 1 Hour 20 Mins )",
+  "Pickup": "11:20 AM",
+  "Dropoff": "12:40 PM",
+  "StartAddress": "Royal Palace Street 506, Albany, New York - USA",
+  "EndAddress": "City Mall Street 281, Albany, New York - USA"
+}
+]

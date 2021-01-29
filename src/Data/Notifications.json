@@ -1,0 +1,22 @@
+[
+{
+  "id": 0,
+  "Text": "You have a message from admin",
+  "Date": "yesterday"
+},
+{
+  "id": 1,
+  "Text": "Your ride has been cancelled",
+  "Date": "06-06-19"
+},
+{
+  "id": 2,
+  "Text": "Admin has confirmed your ride",
+  "Date": "06-06-19"
+},
+{
+  "id": 3,
+  "Text": "Updated app version is available",
+  "Date": "06-06-19"
+}
+]

@@ -1,0 +1,38 @@
+
+[
+{
+  "id": 0,
+  "DateWeekMonth": "06/06/19",
+  "Hours": "3 Hrs",
+  "Trips": "5",
+  "Total": "$250"
+},
+{
+  "id": 1,
+  "DateWeekMonth": "06/06/19",
+  "Hours": "5 Hrs",
+  "Trips": "3",
+  "Total": "$250"
+} ,
+{
+  "id": 2,
+  "DateWeekMonth": "06/06/19",
+  "Hours": "5 Hrs",
+  "Trips": "7",
+  "Total": "$250"
+} ,
+{
+  "id": 3,
+  "DateWeekMonth": "06/06/19",
+  "Hours": "3 Hrs",
+  "Trips": "5",
+  "Total": "$250"
+},
+{
+  "id": 4,
+  "DateWeekMonth": "06/06/19",
+  "Hours": "3 Hrs",
+  "Trips": "5",
+  "Total": "$250"
+}
+]

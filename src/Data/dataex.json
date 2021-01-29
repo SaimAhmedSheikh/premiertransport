@@ -1,0 +1,60 @@
+{
+  "RideTrip1":{
+    "TripID":1,
+    "TripType":"Round",
+    "Date":"06/15/2019",
+    "Ride1":{
+        "PickUp":"11:41 AM",
+        "DropOff":"12:30 PM",
+        "PickUpAddress":"Royal Palace Street 506, Albany, New York - USA",
+        "DropOffAddress":"City Mall Street 281, Albany, New York - USA",
+        "RideDuration":"1 hour 35 minutes",
+        "RideFare":"$50.30",
+        "PickUpLat":"12.534345",
+        "PickUpLong":"45.000004",
+        "DropOffLat":"13.4324234",
+        "DropOffLong":"45.423424"
+    },
+    "Ride2":{
+        "PickUp":"11:41 AM",
+        "DropOff":"12:30 PM",
+        "PickUpAddress":"Royal Palace Street 506, Albany, New York - USA",
+        "DropOffAddress":"City Mall Street 281, Albany, New York - USA",
+        "RideDuration":"1 hour 35 minutes",
+        "RideFare":"$50.30",
+        "PickUpLat":"12.534345",
+        "PickUpLong":"45.000004",
+        "DropOffLat":"13.4324234",
+        "DropOffLong":"45.423424"
+    },
+    "Rdie3":{
+        "PickUp":"11:41 AM",
+        "DropOff":"12:30 PM",
+        "PickUpAddress":"Royal Palace Street 506, Albany, New York - USA",
+        "DropOffAddress":"City Mall Street 281, Albany, New York - USA",
+        "RideDuration":"1 hour 35 minutes",
+        "RideFare":"$50.30",
+        "PickUpLat":"12.534345",
+        "PickUpLong":"45.000004",
+        "DropOffLat":"13.4324234",
+        "DropOffLong":"45.423424"
+    }
+  },
+  "RideTrip2":{
+    "TripID":2,
+    "TripType":"Single",
+    "Date":"06/15/2019",
+    "Ride1":{
+        "PickUp":"11:41 AM",
+        "DropOff":"12:30 PM",
+        "PickUpAddress":"Royal Palace Street 506, Albany, New York - USA",
+        "DropOffAddress":"City Mall Street 281, Albany, New York - USA",
+        "RideDuration":"1 hour 35 minutes",
+        "RideFare":"$50.30",
+        "PickUpLat":"12.534345",
+        "PickUpLong":"45.000004",
+        "DropOffLat":"13.4324234",
+        "DropOffLong":"45.423424"
+     }
+  }
+}

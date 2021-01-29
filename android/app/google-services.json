@@ -1,0 +1,49 @@
+
+{
+  "project_info": {
+    "project_number": "427821188300",
+    "firebase_url": "https://test-51cda.firebaseio.com",
+    "project_id": "test-51cda",
+    "storage_bucket": "test-51cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427821188300:android:d2736ef1d9f19d19",
+        "android_client_info": {
+          "package_name": "com.premiertransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427821188300-rdur9ut793b5h0tfam9q449j0c6uh2b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.premiertransport",
+            "certificate_hash": "37266a0520965c37a192f628105df8cc63a8ffb5"
+          }
+        },
+        {
+          "client_id": "427821188300-mnfpkmjv15ojdmdvg9pssrce2jaap33b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5hn1KPGit3DXCLV3cQrKkBO6QWx0MLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427821188300-mnfpkmjv15ojdmdvg9pssrce2jaap33b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
